@@ -1,3 +1,4 @@
+
 # dgmd story-telling project
 This site was a very personal project built around media and content that was important to me.  While you are welcome and encouraged to build _anything you’d like_ as your first, story-telling project, we are sharing this project with all of you to serve as a code base and framework for beginning to mess around with HTML, CSS, Javascript, and story-telling.  The extensions outlined below are meant to acquaint you with the project and offer you some challenges and guidance in trying to adapt and extend this project into a story of your own.
 
